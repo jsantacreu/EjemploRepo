@@ -1,4 +1,2 @@
 # EjemploRepo
-
-algo
-pene
+Primera linea
